@@ -450,7 +450,7 @@
 	Capitalize names of days	요일의 첫 글자를 대문자로
 	Caps	대문자
 	Change Picture…	그림 변경…
-	Change Shape	모양 변경
+	Change Shape	도형 변경
 	Change to:	다음으로 변경:
 	Chart cell	차트 셀
 	Choosing a sound file needs the desktop app	소리 파일을 선택하려면 데스크톱 앱이 필요합니다
@@ -465,12 +465,12 @@
 	Compare this presentation with a revised copy from Review › Compare.	검토 › 비교에서 이 프레젠테이션과 수정본을 비교하세요.
 	Compress	압축
 	Compression options	압축 옵션
-	Convert to Shapes	모양으로 변환
+	Convert to Shapes	도형으로 변환
 	Convert to Text	텍스트로 변환
 	Copy path	경로 복사
 	Correct TWo INitial CApitals	처음 두 글자가 대문자인 경우 고침
 	Correct accidental use of cAPS LOCK key	<Caps Lock> 키의 우발적 사용 고침
-	Crop to Shape	모양에 맞춰 자르기
+	Crop to Shape	도형에 맞춰 자르기
 	Dash	대시
 	Decrease {label}	{label} 줄이기
 	Delete Point	포인트 삭제
@@ -494,7 +494,7 @@
 	Footers	바닥글
 	For rectangles and rounded rectangles	직사각형 및 둥근 직사각형용
 	Format Background…	배경 서식…
-	Format Shape…	모양 서식…
+	Format Shape…	도형 서식…
 	From the top-left corner of the slide	슬라이드의 왼쪽 위 모서리 기준
 	Go to	이동
 	Grab bag	모음
@@ -520,7 +520,7 @@
 	Loop until Stopped	중지될 때까지 반복 재생
 	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 ArtCraft Team 및 DeckCraft 기여자
 	Margins (pt)	여백 (pt)
-	Merge Shapes	모양 병합
+	Merge Shapes	도형 병합
 	Month names and AM/PM are listed for English. Other languages list the numeric date and 24-hour time.	영어의 경우 월 이름과 오전/오후가 표시됩니다. 다른 언어는 숫자 날짜와 24시간제 시간이 표시됩니다.
 	More Colors… #	기타 색상… #
 	Move Section Down	섹션 아래로 이동
@@ -575,7 +575,7 @@
 	Reset Style	스타일 재설정
 	Rewind after Playing	재생 후 되감기
 	Ribbon Tab	리본 탭
-	Rotate with shape	모양과 함께 회전
+	Rotate with shape	도형과 함께 회전
 	Screenshot (not available yet)	스크린샷 (아직 사용할 수 없음)
 	Scroll ribbon left	리본 왼쪽으로 스크롤
 	Scroll ribbon right	리본 오른쪽으로 스크롤
@@ -585,12 +585,12 @@
 	Select None	선택 안 함
 	Select a SmartArt graphic to edit its text.	텍스트를 편집할 SmartArt 그래픽을 선택하세요.
 	Select a chart first.	먼저 차트를 선택하세요.
-	Select a shape to format it.	서식을 지정할 모양을 선택하세요.
+	Select a shape to format it.	서식을 지정할 도형을 선택하세요.
 	Select a word on the slide, or type one above.	슬라이드에서 단어를 선택하거나 위에 입력하세요.
 	Select an object on the slide and add an animation from the Animations tab.	슬라이드에서 개체를 선택하고 애니메이션 탭에서 효과를 추가하세요.
 	Set Transparent Color	투명한 색 설정
 	Set Zoom	확대/축소 설정
-	Set as Default Shape	기본 모양으로 설정
+	Set as Default Shape	기본 도형으로 설정
 	Show type	쇼 유형
 	Size and Position…	크기 및 위치…
 	Slide text	슬라이드 텍스트
@@ -624,9 +624,9 @@
 	Type your text here	여기에 텍스트를 입력하세요
 	Vertical alignment	세로 정렬
 	Width: 	너비: 
-	With	효과와 함께
-	With:	효과와 함께:
-	Wrap text in shape	모양 안의 텍스트 줄 바꿈
+	With	다음으로
+	With:	다음으로:
+	Wrap text in shape	도형 안의 텍스트 줄 바꿈
 	Zoom to	확대/축소 비율
 	{label} value	{label} 값
 	{name} options	{name} 옵션
