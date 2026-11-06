@@ -1492,6 +1492,14 @@
 	Remove Table of Contents	删除目录
 	Remove the control once edited	编辑后删除控件
 	Remove Watermark	删除水印
+	No watermark	无水印
+	Picture watermark	图片水印
+	Text watermark	文字水印
+	Select Picture…	选择图片…
+	Washout	褪色
+	Semitransparent	半透明
+	Transparency:	透明度：
+	Select a picture first.	请先选择图片。
 	Rename Document	重命名文档
 	Reopen	重新打开
 	Repeat as header row on each page	在各页重复作为标题行
@@ -2184,3 +2192,73 @@
 	Thai	泰语
 	Vietnamese	越南语
 	Set as Default Language	设为默认语言
+	{language} ({region})	{language}（{region}）
+	U.A.E.	阿联酋
+	Angola	安哥拉
+	Argentina	阿根廷
+	Austria	奥地利
+	Australia	澳大利亚
+	Bosnia and Herzegovina	波斯尼亚和黑塞哥维那
+	Belgium	比利时
+	Bolivia	玻利维亚
+	Brazil	巴西
+	Belarus	白俄罗斯
+	Canada	加拿大
+	Switzerland	瑞士
+	Chile	智利
+	China	中国
+	Colombia	哥伦比亚
+	Costa Rica	哥斯达黎加
+	Cuba	古巴
+	Cabo Verde	佛得角
+	Cyprus	塞浦路斯
+	Germany	德国
+	Dominican Republic	多米尼加共和国
+	Ecuador	厄瓜多尔
+	Egypt	埃及
+	Spain	西班牙
+	Finland	芬兰
+	France	法国
+	United Kingdom	英国
+	Equatorial Guinea	赤道几内亚
+	Guatemala	危地马拉
+	Hong Kong SAR	中国香港特别行政区
+	Honduras	洪都拉斯
+	Ireland	爱尔兰
+	India	印度
+	Iraq	伊拉克
+	Italy	意大利
+	Jamaica	牙买加
+	Jordan	约旦
+	Kuwait	科威特
+	Kazakhstan	哈萨克斯坦
+	Lebanon	黎巴嫩
+	Liechtenstein	列支敦士登
+	Luxembourg	卢森堡
+	Morocco	摩洛哥
+	Monaco	摩纳哥
+	Montenegro	黑山
+	Macao SAR	中国澳门特别行政区
+	Mexico	墨西哥
+	Malaysia	马来西亚
+	Mozambique	莫桑比克
+	Nicaragua	尼加拉瓜
+	Netherlands	荷兰
+	New Zealand	新西兰
+	Panama	巴拿马
+	Peru	秘鲁
+	Philippines	菲律宾
+	Puerto Rico	波多黎各
+	Portugal	葡萄牙
+	Paraguay	巴拉圭
+	Qatar	卡塔尔
+	Russia	俄罗斯
+	Singapore	新加坡
+	El Salvador	萨尔瓦多
+	Syria	叙利亚
+	Taiwan	台湾
+	Ukraine	乌克兰
+	United States	美国
+	Uruguay	乌拉圭
+	Venezuela	委内瑞拉
+	South Africa	南非

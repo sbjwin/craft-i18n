@@ -1764,6 +1764,13 @@ spacing	Open	Otvoreno
 	Remove the control once edited	Ukloni kontrolu nakon uređivanja
 	Remove the space before the punctuation	Ukloni razmak prije interpunkcije
 	Remove Watermark	Ukloni vodeni žig
+	No watermark	Bez vodenog žiga
+	Picture watermark	Vodeni žig sa slikom
+	Text watermark	Tekstualni vodeni žig
+	Select Picture…	Odaberi sliku…
+	Semitransparent	Poluprozirno
+	Transparency:	Prozirnost:
+	Select a picture first.	Prvo odaberite sliku.
 	Rename Document	Preimenuj dokument
 	Reopen	Ponovo otvori
 	Repeat as header row on each page	Ponavljaj kao red zaglavlja na svakoj stranici
@@ -2568,3 +2575,72 @@ preview	Title	Naslov
 	Thai	tajlandski
 	Vietnamese	vijetnamski
 	Set as Default Language	Postavi kao zadani jezik
+	U.A.E.	UAE
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Austrija
+	Australia	Australija
+	Bosnia and Herzegovina	Bosna i Hercegovina
+	Belgium	Belgija
+	Bolivia	Bolivija
+	Brazil	Brazil
+	Belarus	Bjelorusija
+	Canada	Kanada
+	Switzerland	Švicarska
+	Chile	Čile
+	China	Kina
+	Colombia	Kolumbija
+	Costa Rica	Kostarika
+	Cuba	Kuba
+	Cabo Verde	Zelenortska Ostrva
+	Cyprus	Kipar
+	Germany	Njemačka
+	Dominican Republic	Dominikanska Republika
+	Ecuador	Ekvador
+	Egypt	Egipat
+	Spain	Španija
+	Finland	Finska
+	France	Francuska
+	United Kingdom	Ujedinjeno Kraljevstvo
+	Equatorial Guinea	Ekvatorijalna Gvineja
+	Guatemala	Gvatemala
+	Hong Kong SAR	Hongkong SAR
+	Honduras	Honduras
+	Ireland	Irska
+	India	Indija
+	Iraq	Irak
+	Italy	Italija
+	Jamaica	Jamajka
+	Jordan	Jordan
+	Kuwait	Kuvajt
+	Kazakhstan	Kazahstan
+	Lebanon	Liban
+	Liechtenstein	Lihtenštajn
+	Luxembourg	Luksemburg
+	Morocco	Maroko
+	Monaco	Monako
+	Montenegro	Crna Gora
+	Macao SAR	Makao SAR
+	Mexico	Meksiko
+	Malaysia	Malezija
+	Mozambique	Mozambik
+	Nicaragua	Nikaragva
+	Netherlands	Holandija
+	New Zealand	Novi Zeland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Filipini
+	Puerto Rico	Portoriko
+	Portugal	Portugal
+	Paraguay	Paragvaj
+	Qatar	Katar
+	Russia	Rusija
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Sirija
+	Taiwan	Tajvan
+	Ukraine	Ukrajina
+	United States	Sjedinjene Američke Države
+	Uruguay	Urugvaj
+	Venezuela	Venecuela
+	South Africa	Južnoafrička Republika

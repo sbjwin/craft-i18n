@@ -1507,6 +1507,14 @@
 	Remove Table of Contents	Видалити зміст
 	Remove the control once edited	Видалити елемент після редагування
 	Remove Watermark	Видалити водяний знак
+	No watermark	Без водяного знака
+	Picture watermark	Водяний знак із зображення
+	Text watermark	Текстовий водяний знак
+	Select Picture…	Вибрати зображення…
+	Washout	Вицвіле
+	Semitransparent	Напівпрозоре
+	Transparency:	Прозорість:
+	Select a picture first.	Спочатку виберіть зображення.
 	Rename Document	Перейменувати документ
 	Reopen	Відкрити знову
 	Repeat as header row on each page	Повторювати як рядок заголовка на кожній сторінці
@@ -2192,3 +2200,72 @@
 	Thai	Тайська
 	Vietnamese	В’єтнамська
 	Set as Default Language	Зробити типовою мовою
+	U.A.E.	ОАЕ
+	Angola	Ангола
+	Argentina	Аргентина
+	Austria	Австрія
+	Australia	Австралія
+	Bosnia and Herzegovina	Боснія і Герцеговина
+	Belgium	Бельгія
+	Bolivia	Болівія
+	Brazil	Бразилія
+	Belarus	Білорусь
+	Canada	Канада
+	Switzerland	Швейцарія
+	Chile	Чилі
+	China	Китай
+	Colombia	Колумбія
+	Costa Rica	Коста-Рика
+	Cuba	Куба
+	Cabo Verde	Кабо-Верде
+	Cyprus	Кіпр
+	Germany	Німеччина
+	Dominican Republic	Домініканська Республіка
+	Ecuador	Еквадор
+	Egypt	Єгипет
+	Spain	Іспанія
+	Finland	Фінляндія
+	France	Франція
+	United Kingdom	Велика Британія
+	Equatorial Guinea	Екваторіальна Гвінея
+	Guatemala	Гватемала
+	Hong Kong SAR	САР Гонконг
+	Honduras	Гондурас
+	Ireland	Ірландія
+	India	Індія
+	Iraq	Ірак
+	Italy	Італія
+	Jamaica	Ямайка
+	Jordan	Йорданія
+	Kuwait	Кувейт
+	Kazakhstan	Казахстан
+	Lebanon	Ліван
+	Liechtenstein	Ліхтенштейн
+	Luxembourg	Люксембург
+	Morocco	Марокко
+	Monaco	Монако
+	Montenegro	Чорногорія
+	Macao SAR	САР Макао
+	Mexico	Мексика
+	Malaysia	Малайзія
+	Mozambique	Мозамбік
+	Nicaragua	Нікарагуа
+	Netherlands	Нідерланди
+	New Zealand	Нова Зеландія
+	Panama	Панама
+	Peru	Перу
+	Philippines	Філіппіни
+	Puerto Rico	Пуерто-Рико
+	Portugal	Португалія
+	Paraguay	Парагвай
+	Qatar	Катар
+	Russia	Росія
+	Singapore	Сінгапур
+	El Salvador	Сальвадор
+	Syria	Сирія
+	Taiwan	Тайвань
+	Ukraine	Україна
+	United States	Сполучені Штати
+	Uruguay	Уругвай
+	Venezuela	Венесуела
+	South Africa	Південна Африка
