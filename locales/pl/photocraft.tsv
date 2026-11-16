@@ -3397,3 +3397,7 @@ cameraRaw	Yellow	Żółty
 	…and {n} more	…i {n} więcej
 	↑↓ navigate   {key} run   esc close	↑↓ nawigacja   {key} uruchom   esc zamknij
 	↑↓ navigate   ↵ run   esc close	↑↓ nawigacja   ↵ uruchom   esc zamknij
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Natywny edytor obrazów o otwartym kodzie źródłowym
+	Initializing graphics & engine…	Inicjowanie grafiki i silnika…
+	Loading workspace & font assets…	Wczytywanie obszaru roboczego i czcionek…
+	Click anywhere to skip	Kliknij w dowolnym miejscu, aby pominąć

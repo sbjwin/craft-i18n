@@ -3620,3 +3620,7 @@ navigator	Zoom	Nagyítás mértéke
 	…and {n} more	…és még {n}
 	↑↓ navigate   {key} run   esc close	↑↓ navigálás   {key} futtatás   esc bezárás
 	↑↓ navigate   ↵ run   esc close	↑↓ léptetés   ↵ futtatás   esc bezárás
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Nyílt forráskódú, natív képszerkesztő
+	Initializing graphics & engine…	Grafika és motor inicializálása…
+	Loading workspace & font assets…	Munkaterület és betűtípusok betöltése…
+	Click anywhere to skip	Kattintson bárhová az átugráshoz

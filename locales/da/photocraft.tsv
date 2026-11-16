@@ -4025,3 +4025,7 @@ navigator	Zoom	Zoom
 	↑↓ navigate   ↵ run   esc close	↑↓ navigér   ↵ kør   esc luk
 	✓ Color Indicates Masked Areas	✓ Farve angiver maskerede områder
 	✓ Color Indicates Selected Areas	✓ Farve angiver markerede områder
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Native open source-billedredigeringsprogram
+	Initializing graphics & engine…	Initialiserer grafik og motor…
+	Loading workspace & font assets…	Indlæser arbejdsområde og skrifttyper…
+	Click anywhere to skip	Klik hvor som helst for at springe over

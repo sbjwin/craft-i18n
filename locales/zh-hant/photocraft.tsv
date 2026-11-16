@@ -2563,3 +2563,7 @@ cameraRaw	Whites	白色色階
 	“{name}” already exists. Replace it?	「{name}」已存在。要取代它嗎？
 	…and {n} more	…以及另外 {n} 項
 	↑↓ navigate   {key} run   esc close	↑↓ 瀏覽   {key} 執行   esc 關閉
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  開放原始碼原生影像編輯器
+	Initializing graphics & engine…	正在初始化圖形與引擎…
+	Loading workspace & font assets…	正在載入工作區與字型資源…
+	Click anywhere to skip	按一下任意位置以略過

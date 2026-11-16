@@ -3322,3 +3322,7 @@ cameraRaw	Yellow	Κίτρινο
 	…and {n} more	…και {n} ακόμη
 	↑↓ navigate   {key} run   esc close	↑↓ πλοήγηση   {key} εκτέλεση   Esc κλείσιμο
 	↑↓ navigate   ↵ run   esc close	↑↓ πλοήγηση   ↵ εκτέλεση   esc κλείσιμο
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Εγγενής εφαρμογή επεργασίας εικόνας ανοικτού κώδικα
+	Initializing graphics & engine…	Αρχικοποίηση γραφικών και μηχανής…
+	Loading workspace & font assets…	Φόρτωση χώρου εργασίας και γραμματοσειρών…
+	Click anywhere to skip	Κάντε κλικ οπουδήποτε για παράλειψη

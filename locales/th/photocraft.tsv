@@ -4576,3 +4576,7 @@ navigator	Zoom	ซูม
 	↑↓ navigate   ↵ run   esc close	↑↓ นำทาง ↵ วิ่ง esc ปิด
 	✓ Color Indicates Masked Areas	✓ สีหมายถึงบริเวณที่ถูกปิดบัง
 	✓ Color Indicates Selected Areas	✓ สีบ่งบอกถึงพื้นที่ที่เลือก
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  โปรแกรมแก้ไขภาพแบบโอเพ่นซอร์ส
+	Initializing graphics & engine…	กำลังเริ่มต้นระบบกราฟิกและเอนจิน…
+	Loading workspace & font assets…	กำลังโหลดพื้นที่ทำงานและฟอนต์…
+	Click anywhere to skip	คลิกที่ใดก็ได้เพื่อข้าม

@@ -2628,3 +2628,7 @@ cameraRaw	Tint	色偏
 	…and {n} more	…以及另外 {n} 项
 	↑↓ navigate   {key} run   esc close	↑↓ 导航   {key} 运行   esc 关闭
 	↑↓ navigate   ↵ run   esc close	↑↓ 导航   ↵ 运行   esc 关闭
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  开源原生图像编辑器
+	Initializing graphics & engine…	正在初始化图形与引擎…
+	Loading workspace & font assets…	正在加载工作区与字体资源…
+	Click anywhere to skip	点击任意位置跳过

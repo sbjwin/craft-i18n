@@ -3583,3 +3583,7 @@ navigator	Zoom	Zoom
 	↑↓ navigate   ↵ run   esc close	↑↓ navegar   ↵ ejecutar   esc cerrar
 	✓ Color Indicates Masked Areas	✓ El color indica áreas enmascaradas
 	✓ Color Indicates Selected Areas	✓ El color indica áreas seleccionadas
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Editor de imágenes nativo de código abierto
+	Initializing graphics & engine…	Inicializando gráficos y motor…
+	Loading workspace & font assets…	Cargando espacio de trabajo y fuentes…
+	Click anywhere to skip	Haga clic en cualquier lugar para omitir

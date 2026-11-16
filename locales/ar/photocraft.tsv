@@ -3291,3 +3291,7 @@ fontWeight	Thin	رفيع
 	“{name}” already exists. Replace it?	“{name}” موجود بالفعل. هل تريد استبداله؟
 	…and {n} more	…و{n} أخرى
 	↑↓ navigate   {key} run   esc close	↑↓ تنقل   {key} تشغيل   esc إغلاق
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  محرر صور أصلي ومفتوح المصدر
+	Initializing graphics & engine…	جارٍ تهيئة الرسومات والمحرك…
+	Loading workspace & font assets…	جارٍ تحميل مساحة العمل وموارد الخطوط…
+	Click anywhere to skip	انقر في أي مكان للتخطي

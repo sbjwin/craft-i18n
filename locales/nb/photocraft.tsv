@@ -3819,3 +3819,7 @@ navigator	Zoom	Zoom
 	↑↓ navigate   ↵ run   esc close	↑↓ naviger   ↵ kjør   esc lukk
 	✓ Color Indicates Masked Areas	✓ Farge angir maskerte områder
 	✓ Color Indicates Selected Areas	✓ Farge angir valgte områder
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Nativt bilderedigeringsprogram med åpen kildekode
+	Initializing graphics & engine…	Initialiserer grafikk og motor…
+	Loading workspace & font assets…	Laster inn arbeidsområde og skrifter…
+	Click anywhere to skip	Klikk hvor som helst for å hoppe over

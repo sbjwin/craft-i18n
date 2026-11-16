@@ -3606,3 +3606,7 @@ navigator	Zoom	Uvećanje
 	↑↓ navigate   ↵ run   esc close	↑↓ kretanje   ↵ pokreni   esc zatvori
 	✓ Color Indicates Masked Areas	✓ Boja označava maskirane oblasti
 	✓ Color Indicates Selected Areas	✓ Boja označava izabrane oblasti
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Izvorni uređivač slika otvorenog koda
+	Initializing graphics & engine…	Pokretanje grafike i pogona…
+	Loading workspace & font assets…	Učitavanje radnog prostora i fontova…
+	Click anywhere to skip	Kliknite bilo gde da preskočite

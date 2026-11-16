@@ -3898,3 +3898,7 @@ navigator	Zoom	Zoom
 	↑↓ navigate   ↵ run   esc close	↑↓ navigera   ↵ kör   esc stäng
 	✓ Color Indicates Masked Areas	✓ Färg anger maskerade områden
 	✓ Color Indicates Selected Areas	✓ Färg anger markerade områden
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Inbyggd bildredigerare med öppen källkod
+	Initializing graphics & engine…	Initierar grafik och motor…
+	Loading workspace & font assets…	Läser in arbetsyta och typsnitt…
+	Click anywhere to skip	Klicka var som helst för att hoppa över

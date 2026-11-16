@@ -4041,3 +4041,7 @@ navigator	Zoom	Zoomaus
 	↑↓ navigate   ↵ run   esc close	↑↓ siirry   ↵ suorita   esc sulje
 	✓ Color Indicates Masked Areas	✓ Väri osoittaa maskatut alueet
 	✓ Color Indicates Selected Areas	✓ Väri osoittaa valitut alueet
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Avoimen lähdekoodin natiivi kuvankäsittelyohjelma
+	Initializing graphics & engine…	Alustetaan grafiikkaa ja moottoria…
+	Loading workspace & font assets…	Ladataan työtilaa ja kirjasimia…
+	Click anywhere to skip	Ohita napsauttamalla mitä tahansa

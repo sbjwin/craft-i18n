@@ -666,3 +666,8 @@ cameraRaw	Yellow	पीला
 @plural	{n} pixel|{n} pixels	{n} पिक्सेल|{n} पिक्सेल्स
 @plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} चरण का अभी PhotoCraft में कोई समकक्ष नहीं है|{n} चरणों का अभी PhotoCraft में कोई समकक्ष नहीं है
 	{set} from {file} replaced the one from {earlier}	{file} के सेट {set} ने {earlier} वाले सेट की जगह ले ली
+	Ready	तैयार
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  ओपन-सोर्स नेटिव इमेज एडिटर
+	Initializing graphics & engine…	ग्राफ़िक्स और इंजन प्रारंभ हो रहा है…
+	Loading workspace & font assets…	वर्कस्पेस और फ़ॉन्ट संसाधन लोड हो रहे हैं…
+	Click anywhere to skip	छोड़ने के लिए कहीं भी क्लिक करें

@@ -4663,3 +4663,7 @@ navigator	Zoom	მასშტაბი
 	↑↓ navigate   ↵ run   esc close	↑↓ ნავიგაცია   ↵ გაშვება   esc დახურვა
 	✓ Color Indicates Masked Areas	✓ ფერი აღნიშნავს ნიღბიან არეებს
 	✓ Color Indicates Selected Areas	✓ ფერი აღნიშნავს მონიშნულ არეებს
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  ღია კოდის ნატიური გამოსახულების რედაქტორი
+	Initializing graphics & engine…	გრაფიკისა და ძრავის ინიციალიზაცია…
+	Loading workspace & font assets…	სამუშაო გარემოსა და შრიფტების ჩატვირთვა…
+	Click anywhere to skip	გამოსატოვებლად დააწკაპუნეთ ნებისმიერ ადგილას

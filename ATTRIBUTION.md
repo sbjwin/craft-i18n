@@ -344,3 +344,7 @@ ko, nl, pl, pt-br, ru, sr-latn, tr, uk, vi, zh-hans and zh-hant (sr.tsv became s
 They were written with a coding agent from the plain meaning of the English (the tool was
 not recorded); no native-speaker review has been recorded. Other locales have no rows for
 these keys yet.
+
+## PhotoCraft: startup splash screen labels
+
+@sbjwin added the startup splash screen rows (`v{version}  ·  Open Source Native Image Editor`, `Initializing graphics & engine…`, `Loading workspace & font assets…`, `Click anywhere to skip`, and `Ready` in `hi`) to `locales/<code>/photocraft.tsv` across all 35 PhotoCraft catalogs. Clean-room translations written from the plain meaning of the English text and existing catalog terminology, AI-assisted; Korean (`ko`) reviewed by @sbjwin, a native speaker, and the remaining locales not yet reviewed by a native speaker.

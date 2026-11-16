@@ -4644,3 +4644,7 @@ navigator	Zoom	Miqyas
 	↑↓ navigate   ↵ run   esc close	↑↓ naviqasiya ↵ esc-i yaxından işə salın
 	✓ Color Indicates Masked Areas	✓ Rəng Maskalı Sahələri Göstərir
 	✓ Color Indicates Selected Areas	✓ Rəng Seçilmiş Sahələri Göstərir
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Açıq mənbəli yerli şəkil redaktoru
+	Initializing graphics & engine…	Qrafika və mühərrik işə salınır…
+	Loading workspace & font assets…	İş sahəsi və şrift resursları yüklənir…
+	Click anywhere to skip	Keçmək üçün istənilən yerə klikləyin

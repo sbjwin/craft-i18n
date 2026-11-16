@@ -3494,3 +3494,7 @@ cameraRaw	Yellow	Sarı
 	…and {n} more	…ve {n} daha
 	↑↓ navigate   {key} run   esc close	↑↓ gezin {key} çalıştır esc kapat
 	↑↓ navigate   ↵ run   esc close	↑↓ gezin ↵ çalıştır esc kapat
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Açık kaynaklı, yerel görüntü düzenleyici
+	Initializing graphics & engine…	Grafikler ve motor başlatılıyor…
+	Loading workspace & font assets…	Çalışma alanı ve yazı tipi varlıkları yükleniyor…
+	Click anywhere to skip	Atlamak için herhangi bir yere tıklayın

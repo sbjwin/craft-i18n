@@ -3260,3 +3260,7 @@ cameraRaw	Yellow	Vàng
 	↑↓ navigate   {key} run   esc close	↑↓ điều hướng   {key} chạy   esc đóng
 	✓ Color Indicates Masked Areas	✓ Màu chỉ vùng bị che
 	✓ Color Indicates Selected Areas	✓ Màu chỉ vùng được chọn
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Trình chỉnh sửa ảnh gốc mã nguồn mở
+	Initializing graphics & engine…	Đang khởi tạo đồ họa & công cụ…
+	Loading workspace & font assets…	Đang tải không gian làm việc & phông chữ…
+	Click anywhere to skip	Nhấp vào bất kỳ đâu để bỏ qua

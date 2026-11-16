@@ -3817,3 +3817,7 @@ navigator	Zoom	Масштаб
 	↑↓ navigate   ↵ run   esc close	↑↓ навигация   ↵ выполнить   esc закрыть
 	✓ Color Indicates Masked Areas	✓ Цветом обозначены маскированные области
 	✓ Color Indicates Selected Areas	✓ Цветом обозначены выделенные области
+	v{version}  ·  Open Source Native Image Editor	v{version}  ·  Открытый нативный графический редактор
+	Initializing graphics & engine…	Инициализация графики и движка…
+	Loading workspace & font assets…	Загрузка рабочей среды и шрифтов…
+	Click anywhere to skip	Нажмите в любом месте, чтобы пропустить
