@@ -364,6 +364,21 @@ They were written with a coding agent from the plain meaning of the English (the
 not recorded); no native-speaker review has been recorded. Other locales have no rows for
 these keys yet.
 
+## TextureCraft: Edit > Project Configuration... (texturecraft #525)
+
+Adds the strings of the Project Configuration window (3D MESH, Import settings, PROJECT SETTINGS,
+UV Tile settings (UDIMs) and their hints, 13 strings, 12 in es, fr, it and pt-br which already
+have "File not found") and "Relative to the bounding box diagonal." to the `texturecraft.tsv`
+catalogs of ar, de, es, fr, it, ja, ko, pt-br and zh-hans. The Project Configuration translations
+are new and AI-assisted, written from the plain meaning of the English and the wording these
+catalogs already use for "Reimport mesh", "Texture Set Settings" and "Mesh maps"; no native speaker
+reviewed them. The "Relative to the bounding box diagonal." translations are the existing ones from
+TextureCraft's `ui-egui/src/i18n` tables.
+
+Also adds five info-icon tooltip and note strings of the same window (the mesh path, Select..., Normal map
+format and UV tile hints, and the note that choosing or reimporting a mesh recomputes all channels) to the same nine
+catalogs, with the same AI-assisted origin and no native-speaker review.
+
 ## PhotoCraft: startup splash screen labels
 
 @sbjwin added the startup splash screen rows (`v{version}  ·  Open Source Native Image Editor`, `Initializing graphics & engine…`, `Loading workspace & font assets…`, `Click anywhere to skip`, and `Ready` in `hi`) to `locales/<code>/photocraft.tsv` across all 35 PhotoCraft catalogs. Clean-room translations written from the plain meaning of the English text and existing catalog terminology, AI-assisted; Korean (`ko`) reviewed by @sbjwin, a native speaker, and the remaining locales not yet reviewed by a native speaker.
